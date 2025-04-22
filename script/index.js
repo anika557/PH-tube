@@ -26,6 +26,7 @@ function disPlayCtegories(categories) {
         categoryContainer.append(categoryDiv);
     }
 }
+loadCategories();
 
 
 // this is fetch parent(
